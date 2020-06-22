@@ -1,0 +1,10 @@
+Sazonov  6 intel   16 zotac  16  WD      1 512  5 4 windows
+Petrin   5 intel   16 zotac  32  WD      1 1024 3 4 windows
+Ilminsky 5 AMD     16 zotac  32  WD      1 1024 3 4 iosx
+Drachev  2 intel   4  msi    16  WD      1 1024 2 3 windows
+Tsapkov  5 intel   16 zotac  32  SEAGATE 1 1024 3 4 ubuntu
+Andreev  4 AMD     32 gforce 16  SEAGATE 2 512  1 2 ubuntu
+Khrenov  4 intel   32 zotac  16  SEAGATE 1 1024 5 4 windows
+Egorova  4 AMD     32 gforce 16  SEAGATE 2 512  2 2 android
+Shichko  2 intel   16 zotac  32  SEAGATE 1 1024 3 4 linux 
+Andreev 4 AMD 32 gforce 16 SEAGATE 2 512 1 2 ubuntu
